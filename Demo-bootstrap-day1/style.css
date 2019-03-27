@@ -1,0 +1,61 @@
+.content-container{
+	background: #efefef;
+	width: 100%;
+	height: 500px;
+}
+
+
+/*滚动条*/
+#carousel-example-generic {
+	width: 100%;
+	margin-top: -10px;
+}
+.carousel {
+	height: 500px;
+	background-color: #000;
+}
+.carousel .item {
+	height: 500px;
+	background-color: #000;
+}
+.carousel-caption {
+	margin-top: 120px;
+	font-size: 20px;
+	line-height: 3.8;
+}
+
+.logo-content {
+	margin-top: 100px;
+	text-align: center;
+	font-size: 13px;
+}
+.logo-content img {
+	width: 180px;
+	height: 180px;
+}
+
+.divider-hr {
+	margin:30px 80px; 
+}
+
+/*  标签页*/
+#tab-list {
+	margin: 30px 80px;
+}
+.feature {
+	padding-top: 110px 0;
+	margin: 30px 80px;
+}
+.feature .feature-heading{
+	font-size: 50px;
+	color: #2a6496;
+	margin-top: 120px;
+}
+.feature .feature-muted{
+	font-size: 25px;
+	color: #999;
+}
+#top img{
+	width: 100px;
+	height: 100px;
+}
